@@ -1,0 +1,48 @@
+
+  // showAlertDialog(BuildContext context) {
+  //   // set up the AlertDialog
+  //   AlertDialog alert = AlertDialog(
+  //     title: Text('Logout'),
+  //     content: Text("Do you want to logout now?"),
+  //     actions: [
+  //       Row(
+  //         mainAxisAlignment: MainAxisAlignment.center,
+  //         children: <Widget>[
+  //           FlatButton(
+  //             onPressed: () {
+  //               Navigator.pop(context);
+  //             },
+  //             child: Text(
+  //               "Cancel",
+  //               style:
+  //                   TextStyle(color: Colors.red, fontWeight: FontWeight.bold),
+  //             ),
+  //           ),
+  //           SizedBox(
+  //             width: 40,
+  //           ),
+  //           FlatButton(
+  //             onPressed: () {
+  //               BlocProvider.of<HomePageBloc>(context).add(LogOutEvent());
+  //             },
+  //             child: Text(
+  //               "Confirm",
+  //               style:
+  //                   TextStyle(color: Colors.blue, fontWeight: FontWeight.bold),
+  //             ),
+  //           ),
+  //           SizedBox(
+  //             width: 40,
+  //           ),
+  //         ],
+  //       )
+  //     ],
+  //   );
+
+  // show the dialog
+  // showDialog(
+  //   context: context,
+  //   builder: (BuildContext context) {
+  //     return Container(child: alert);
+  //   },
+  // );

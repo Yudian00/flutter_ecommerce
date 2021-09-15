@@ -1,0 +1,34 @@
+26 Desember 2020 : 
+- penambahan radio button 
+- perubahan warna 
+- pengurangan navigasi ketika ingin checkout
+
+27 Desember 2020 : 
+- penambahan currentIndex pada 'bottom navigation bar'
+- penambahan badge untuk icon list item pada cart
+- penambahan icon search pada appbar
+- penambahan appbar pada halaman 'explore page'
+- penambahan fitur 'delete waiting transaction' pada halaman pengguna
+- penambahan splash page pada saat awal membuka aplikasi
+- penambahan tabbar pada home berdasarkan kategori
+
+6 Januari 2021 : 
+- penambahan semua riwayat transaksi 
+- penambahan detail transaksi 
+- penambahan fitur 'Pembatalan transaksi' pada halaman transaksi detail
+
+7 Januari 2021 : 
+- penambahan fitur filter pada halaman product
+
+
+
+
+==========================================
+
+NEXT PLAN : 
+
+- Fitur pencarian barang
+- Favorite product 
+- Account page desain
+- product detail design for more photos
+
